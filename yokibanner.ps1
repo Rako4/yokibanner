@@ -1,4 +1,4 @@
-function Show-Banner {
+function BannerCyan {
     Write-Host @"
  __     __   _    _ 
  \ \   / /  | |  (_)
